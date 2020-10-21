@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Benoit, a french 🥖 programmer living in California.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitongit&layout=compact)](https://github.com/benoitongit/github-readme-stats)
 
 <!--
